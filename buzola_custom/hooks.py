@@ -185,3 +185,13 @@ app_license = "MIT"
 # auth_hooks = [
 #	"buzola_custom.auth.validate"
 # ]
+
+
+
+# Fixtures para customizacion
+# --------------------------------
+
+fixtures = [
+       "Custom Field",
+	"Skill"
+]

@@ -1,0 +1,154 @@
+[
+ {
+  "description": "Organizado",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:09:23.658807",
+  "name": "Organizacion",
+  "skill_name": "Organizacion"
+ },
+ {
+  "description": "Colaborador",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:08:57.580163",
+  "name": "Colaboracion",
+  "skill_name": "Colaboracion"
+ },
+ {
+  "description": "Independiente",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:09:38.409150",
+  "name": "Independencia",
+  "skill_name": "Independencia"
+ },
+ {
+  "description": "Responsable",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:09:54.368922",
+  "name": "Responsable",
+  "skill_name": "Responsable"
+ },
+ {
+  "description": "Anal\u00edtico",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:10:04.956948",
+  "name": "Anal\u00edtico",
+  "skill_name": "Anal\u00edtico"
+ },
+ {
+  "description": "Liderazgo",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:10:19.042803",
+  "name": "Liderazgo",
+  "skill_name": "Liderazgo"
+ },
+ {
+  "description": "Comunicaci\u00f3n",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:10:39.739323",
+  "name": "Comunicaci\u00f3n",
+  "skill_name": "Comunicaci\u00f3n"
+ },
+ {
+  "description": "Negociacion",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:10:50.743841",
+  "name": "Negociacion",
+  "skill_name": "Negociacion"
+ },
+ {
+  "description": "Tecnolog\u00eda",
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:12:58.697302",
+  "name": "Tecnolog\u00eda",
+  "skill_name": "Tecnolog\u00eda"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:13:03.519476",
+  "name": "FInanzas",
+  "skill_name": "FInanzas"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:13:10.455364",
+  "name": "Comercializaci\u00f3n",
+  "skill_name": "Comercializaci\u00f3n"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:13:19.364830",
+  "name": "Idiomas",
+  "skill_name": "Idiomas"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:13:27.866756",
+  "name": "Planeaci\u00f3n Estrat\u00e9gica",
+  "skill_name": "Planeaci\u00f3n Estrat\u00e9gica"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:13:58.479200",
+  "name": "Orientaci\u00f3n a Resultados",
+  "skill_name": "Orientaci\u00f3n a Resultados"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:14:13.450955",
+  "name": "Legal y Normativo",
+  "skill_name": "Legal y Normativo"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:20:22.333973",
+  "name": "Orientado a Resultados",
+  "skill_name": "Orientado a Resultados"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:20:32.612143",
+  "name": "Manejo de Conflictos",
+  "skill_name": "Manejo de Conflictos"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:20:42.802928",
+  "name": "Toma de Decisiones",
+  "skill_name": "Toma de Decisiones"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 11:20:50.580461",
+  "name": "Manejo de Stress",
+  "skill_name": "Manejo de Stress"
+ }
+]
