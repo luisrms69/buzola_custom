@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include buzola_custom *.css
+recursive-include buzola_custom *.csv
+recursive-include buzola_custom *.html
+recursive-include buzola_custom *.ico
+recursive-include buzola_custom *.js
+recursive-include buzola_custom *.json
+recursive-include buzola_custom *.md
+recursive-include buzola_custom *.png
+recursive-include buzola_custom *.py
+recursive-include buzola_custom *.svg
+recursive-include buzola_custom *.txt
+recursive-exclude buzola_custom *.pyc
