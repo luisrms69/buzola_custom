@@ -107,14 +107,6 @@
   "description": null,
   "docstatus": 0,
   "doctype": "Skill",
-  "modified": "2022-11-15 11:13:58.479200",
-  "name": "Orientaci\u00f3n a Resultados",
-  "skill_name": "Orientaci\u00f3n a Resultados"
- },
- {
-  "description": null,
-  "docstatus": 0,
-  "doctype": "Skill",
   "modified": "2022-11-15 11:14:13.450955",
   "name": "Legal y Normativo",
   "skill_name": "Legal y Normativo"
@@ -150,5 +142,29 @@
   "modified": "2022-11-15 11:20:50.580461",
   "name": "Manejo de Stress",
   "skill_name": "Manejo de Stress"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 13:59:26.318205",
+  "name": "Relacionamiento",
+  "skill_name": "Relacionamiento"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 13:59:40.558332",
+  "name": "Orientado al cliente",
+  "skill_name": "Orientado al cliente"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2022-11-15 14:06:48.259218",
+  "name": "Orientado a la Persona",
+  "skill_name": "Orientado a la Persona"
  }
 ]

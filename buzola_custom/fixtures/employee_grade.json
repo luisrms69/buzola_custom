@@ -1,0 +1,74 @@
+[
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-10 08:44:56.721365",
+  "name": "GR1"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-10 10:45:41.991574",
+  "name": "Vacante"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-15 13:49:16.453888",
+  "name": "GR2"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-15 13:49:26.718132",
+  "name": "GR3"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-15 13:49:33.086961",
+  "name": "GR4"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-15 13:49:40.452521",
+  "name": "GR5"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-15 13:49:54.360434",
+  "name": "GR6"
+ },
+ {
+  "currency": "MXN",
+  "default_base_pay": 0.0,
+  "default_salary_structure": null,
+  "docstatus": 0,
+  "doctype": "Employee Grade",
+  "modified": "2022-11-15 13:50:08.633610",
+  "name": "GR7"
+ }
+]

@@ -1,0 +1,654 @@
+[
+ {
+  "description": "Esto esta bajo Designation, Description del CEO",
+  "designation_name": "Director General CEO",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 13:57:51.018073",
+  "name": "Director General CEO",
+  "requisitos": "\u2022\tExperiencia demostrable como director general o en otro puesto directivo\n\u2022\tExperiencia demostrable en el desarrollo estrat\u00e9gico y de planes empresariales\n\u2022\tExperiencia de las finanzas corporativas y las medidas del desempe\u00f1o\n\u2022\tConocimiento de herramientas de comercializaci\u00f3n, marketing relevantes para el sector\n\u2022\tConocimiento de herramientas tecnol\u00f3gicas relevantes para incrementar la productividad de la empresa\n\u2022\tConocimiento legal y normativo relativo a la industria\n\u2022\tGrado en Administraci\u00f3n de Empresas o un campo pertinente (preferiblemente un m\u00e1ster)\n",
+  "responsabilidades": "\u2022\tDesarrollar y ejecutar las estrategias empresariales de la compa\u00f1\u00eda para lograr los objetivos de la junta y los accionistas y garantizar la rentabilidad del negocio a mediano y largo plazo.\n\u2022\tProporcionar asesoramiento estrat\u00e9gico a la asamblea de socios para que tengan una visi\u00f3n precisa del mercado y el futuro de la compa\u00f1\u00eda\n\u2022\tPreparar e implementar amplios planes empresariales para facilitar el logro mediante la planificaci\u00f3n de operaciones rentables y actividades de desarrollo del mercado\n\u2022\tAsegurarse de que las pol\u00edticas y las directrices se comunican en todos los niveles de la compa\u00f1\u00eda y que se cumplen en todo momento\n\u2022\tSupervisar el rendimiento financiero, las inversiones y otros proyectos empresariales de la compa\u00f1\u00eda\n\u2022\tDesarrollar, implementar, coordinar, revisar, evaluar y mejorar los procedimientos y pol\u00edticas de la empresa\n\u2022\tMonitorear y supervisar el progreso de proyectos, objetivos y costos de acuerdo con los presupuestos y plazos de tiempo establecidos\n\u2022\tRepresentaci\u00f3n de la empresa ante grupos de inter\u00e9s de los sectores p\u00fablico, institucionales y privados asi como ante los principales clientes de la organizaci\u00f3n.\n\u2022\tDirigir y coordinar las diferentes unidades o departamentos para asegurar su alineaci\u00f3n y cumplimiento de metas.\n\u2022\tProponer niveles de endeudamiento y pol\u00edticas de inversi\u00f3n a la asamblea de socios.\n",
+  "skills": [
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Organizacion"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Colaboracion"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Responsable"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Anal\u00edtico"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Liderazgo"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Comunicaci\u00f3n"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Negociacion"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "FInanzas"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Comercializaci\u00f3n"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Tecnolog\u00eda"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Idiomas"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Planeaci\u00f3n Estrat\u00e9gica"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado a Resultados"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Legal y Normativo"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Manejo de Conflictos"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Toma de Decisiones"
+   },
+   {
+    "parent": "Director General CEO",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Manejo de Stress"
+   }
+  ]
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.303551",
+  "name": "Gerente",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Analista",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.312101",
+  "name": "Analista",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Ingeniero",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.320747",
+  "name": "Ingeniero",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Contador",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.331171",
+  "name": "Contador",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Secretaria",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.341296",
+  "name": "Secretaria",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Asociado",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.346845",
+  "name": "Asociado",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Funcionario administrativo",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.352559",
+  "name": "Funcionario administrativo",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente de Desarrollo de Negocios",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.357909",
+  "name": "Gerente de Desarrollo de Negocios",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": "\n\n",
+  "designation_name": "Gerente de Talento (RRHH)",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 14:07:17.138874",
+  "name": "Gerente de Talento (RRHH)",
+  "requisitos": "\u2022\tT\u00edtulo universitario en administraci\u00f3n, derecho o similar\n\u2022\tExperiencia laboral demostrable como gerente de RR. HH. u otro ejecutivo de RR. HH.\n\u2022\tExperiencia demostrable con m\u00e9tricas de Recursos Humanos\n\u2022\tConocimiento de los sistemas y las bases de datos de Recursos Humanos\n\u2022\tConocimiento de Sistemas de Calidad y Servicio.\n\u2022\tAmplios conocimientos de legislaci\u00f3n laboral\n",
+  "responsabilidades": "\u2022\tDesarrollar e implementar estrategias e iniciativas de RR. HH. alineadas con la estrategia empresarial \n\u2022\tTender puentes en las relaciones entre la direcci\u00f3n y los empleados ocup\u00e1ndose de las demandas, reivindicaciones y otros problemas\n\u2022\tGestionar el proceso de reclutamiento, selecci\u00f3n e inducci\u00f3n, capacitaci\u00f3n, remuneraci\u00f3n, incentivos, evaluaci\u00f3n del desempe\u00f1o y retiro.\n\u2022\tDesarrollar y controlar estrategias de RR. HH. generales, sistemas, t\u00e1cticas y procedimientos en toda la organizaci\u00f3n\n\u2022\tGarantizar el cumplimiento legal a lo largo de la gesti\u00f3n de los Recursos Humanos\n\u2022\tEstablecer y analizar indicadores de gesti\u00f3n de su \u00e1rea y formular estrategias acordes con las mejores pr\u00e1cticas de la industria\n\u2022\tAsegurar, por parte de la empresa, el cumplimiento de las disposiciones legales del pa\u00eds en materia laboral.\n\u2022\tAdministrar y custodiar los expedientes del personal de la empresa\n\u2022\tDesarrollar y actualizar las descripciones y perfiles de puestos de la empresa.\n\u2022\tResponsables de los servicios m\u00e9dicos y la relaci\u00f3n entre el patr\u00f3n y el empleado\n",
+  "skills": [
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Colaboracion"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Organizacion"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Responsable"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Liderazgo"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Comunicaci\u00f3n"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Negociacion"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado a la Persona"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Legal y Normativo"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Manejo de Conflictos"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Toma de Decisiones"
+   },
+   {
+    "parent": "Gerente de Talento (RRHH)",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Manejo de Stress"
+   }
+  ]
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente de proyectos",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.369994",
+  "name": "Gerente de proyectos",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Director de marketing y ventas",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.376183",
+  "name": "Director de marketing y ventas",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Desarrollador de Software.",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.381711",
+  "name": "Desarrollador de Software.",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Dise\u00f1ador",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.387968",
+  "name": "Dise\u00f1ador",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Investigador",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-09 23:05:17.392998",
+  "name": "Investigador",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente de Comercializaci\u00f3n",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 14:00:13.902104",
+  "name": "Gerente de Comercializaci\u00f3n",
+  "requisitos": "\u2022\tExperiencia demostrable como ejecutivo de ventas en el sector agr\u00edcola, alcanzando o superando los objetivos\n\u2022\tExperiencia demostrable como jefe de ventas, desarrollando soluciones centradas en el cliente, diferenciadas y alcanzables\n\u2022\tDominio del sector o del mercado dentro del cual se encuentra la empresa\n\u2022\tExperiencia en la implementaci\u00f3n de estrategias de marketing o en su dise\u00f1o y ejecuci\u00f3n.\n\u2022\tConocimiento de conceptos financieros (presupuestos, pricing, rentabilidad, reportes y m\u00e9tricas financieras) \n\u2022\tIdiomas (ingl\u00e9s)\n\u2022\tGrado universitario o equivalente\n",
+  "responsabilidades": "\u2022\tDefinir la estrategia comercial de la compa\u00f1\u00eda en colaboraci\u00f3n con la Direcci\u00f3n general. Identificando oportunidades comerciales y amenazas para dise\u00f1ar rutas de crecimiento o desarrollo de nuevos productos.\n\u2022\tElaborar y cumplir/superar objetivos de ventas anuales establecidos para las cuentas y los territorios que le sean asignados\n\u2022\tEntablar y mantener relaciones s\u00f3lidas y duraderas con los clientes\n\u2022\tComunicar de manera eficaz la propuesta de valor a trav\u00e9s de propuestas y presentaciones\n\u2022\tHacer seguimiento al mercado, tendencias y competidores con el fin de tomar decisiones de ajustes en los planes comerciales adaptados a nuevas realidades.\n\u2022\tSupervisar y monitorear el cumplimiento de los presupuestos del \u00e1rea y objetivos financieros, as\u00ed como normas y pol\u00edticas comerciales dentro del marco legal propio de la actividad de la empresa\n\u2022\tProponer las estrategias de precios, descuento y plazos de entrega, los presupuestos para campa\u00f1as de promoci\u00f3n de ventas, los m\u00e9todos de venta, y los incentivos y campa\u00f1as especiales.\n\u2022\tGestiona la cartera de clientes de la empresa, y en coordinaci\u00f3n con el director general la negociaci\u00f3n con grandes clientes.\n\u2022\tEstablecer y dirigir los procedimientos operativos y administrativos relativos a las actividades de ventas y comercializaci\u00f3n.\n\u2022\tPlanificar y dirigir el trabajo diario de las operaciones de venta\n",
+  "skills": [
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Responsable"
+   },
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Comunicaci\u00f3n"
+   },
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Relacionamiento"
+   },
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado al cliente"
+   },
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Negociacion"
+   },
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Comercializaci\u00f3n"
+   },
+   {
+    "parent": "Gerente de Comercializaci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado a Resultados"
+   }
+  ]
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente de Producci\u00f3n",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 14:04:31.259296",
+  "name": "Gerente de Producci\u00f3n",
+  "requisitos": "\u2022\tT\u00edtulo universitario en ingenier\u00eda o similar\n\u2022\tAmplia experiencia en la gesti\u00f3n de operaciones\n\u2022\tExperiencia en la gesti\u00f3n de cadenas de abastecimiento\n\u2022\tHabilidades en el manejo de herramientas tecnol\u00f3gicas\n\u2022\tHabilidades de resoluci\u00f3n de problemas complejos\n",
+  "responsabilidades": "\u2022\tGarantizar que todas las operaciones se lleven a cabo de un modo apropiado y rentable\n\u2022\tMejorar los sistemas, procesos y pr\u00e1cticas de gesti\u00f3n operativa\n\u2022\tGestionar materiales, planificar el inventario y supervisar la eficiencia del almac\u00e9n\n\u2022\tAyudar para que los procesos de la organizaci\u00f3n sigan cumpliendo la ley\n\u2022\tRealizar controles de calidad y controlar los KPI de producci\u00f3n\n\u2022\tPlanificar el flujo de trabajo de los trabajadores.\n\u2022\tEstablecer pautas, esquemas y normas cuantitativas y cualitativas para mejorar el desempe\u00f1o de los operadores. \n\u2022\tColaborar con el departamento de selecci\u00f3n y contrataci\u00f3n del personal con respecto al reclutamiento y capacitaci\u00f3n del personal del \u00e1rea operativa.\n\u2022\tImplementar pol\u00edticas de seguridad laboral.\n\u2022\tDeterminar los bienes y servicios indispensables para los fines de producci\u00f3n de la organizaci\u00f3n (presupuesto)\n\u2022\tReducir la cantidad de desechos que se generan en su \u00e1rea.\n\u2022\tEstablecer directrices para el ahorro energ\u00e9tico para que las operaciones sean m\u00e1s respetuosas del medioambiente.\n\u2022\tSeleccionar e instalar soluciones tecnol\u00f3gicas para un mayor control de la producci\u00f3n.\n",
+  "skills": [
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Organizacion"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Responsable"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Anal\u00edtico"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Liderazgo"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Tecnolog\u00eda"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado a Resultados"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Manejo de Conflictos"
+   },
+   {
+    "parent": "Gerente de Producci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Anal\u00edtico"
+   }
+  ]
+ },
+ {
+  "description": "\n",
+  "designation_name": "Coordinador de Adquisiciones",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 14:05:50.454409",
+  "name": "Coordinador de Adquisiciones",
+  "requisitos": "\u2022\tT\u00edtulo universitario en ingenier\u00eda, administraci\u00f3n o similar\n\u2022\tExperiencia laboral demostrable como responsable de adquisiciones, encargado de compras o director de compras\n\u2022\tConocimiento de t\u00e9cnicas de abastecimiento y adquisiciones, as\u00ed como destreza en la interpretaci\u00f3n del mercado\n\u2022\ts\u00f3lido y amplio conocimiento de Gesti\u00f3n de la cadena de suministro\n\u2022\tManejo de inventarios\n\u2022\tIdiomas (ingl\u00e9s)",
+  "responsabilidades": "\n\u2022\tDise\u00f1ar y utilizar estrategias de abastecimiento fructuosas\n\u2022\tDescubrir proveedores rentables e iniciar asociaciones empresariales y con organizaciones\n\u2022\tNegociar con proveedores externos para garantizar condiciones ventajosas\n\u2022\tAutorizar el pedido de productos y servicios necesarios\n\u2022\tDefinir detalles de compra de pedidos y entregas\n\u2022\tExaminar y comprobar contratos vigentes\n\u2022\tHacer un seguimiento e informar sobre m\u00e9tricas funcionales clave (KPIs) para reducir los gastos y mejorar la productividad\n\u2022\tColaborar con personas clave para garantizar la claridad de las especificaciones y expectativas de la empresa\n\u2022\tLlevar a cabo la gesti\u00f3n de riesgos de contratos y acuerdos de suministro\n\u2022\tProponer mejoras al actual sistema de compras que mejoren las relaciones con los proveedores y reduzcan el costo de hacer negocios.\n\u2022\t",
+  "skills": [
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Colaboracion"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Organizacion"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Responsable"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Anal\u00edtico"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Liderazgo"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Legal y Normativo"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Negociacion"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Tecnolog\u00eda"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Idiomas"
+   },
+   {
+    "parent": "Coordinador de Adquisiciones",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Toma de Decisiones"
+   }
+  ]
+ },
+ {
+  "description": null,
+  "designation_name": "Coordinador de Contabilidad",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 13:50:43.412964",
+  "name": "Coordinador de Contabilidad",
+  "requisitos": null,
+  "responsabilidades": null,
+  "skills": []
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente de Administraci\u00f3n",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 14:08:12.801342",
+  "name": "Gerente de Administraci\u00f3n",
+  "requisitos": "Experiencia laboral demostrable como jefe de finanzas, director financiero o un puesto similar\n\u2022  Conocimiento detallado de la gesti\u00f3n del flujo de caja, conciliaci\u00f3n bancaria,  contabilidad y finanzas (corporativas)\n\u2022  Experiencia pr\u00e1ctica en elaboraci\u00f3n de presupuestos y gesti\u00f3n de riesgos\n\u2022  Dominio de software contable\n\u2022  Grado en Contabilidad, Finanzas o un campo pertinente\n\u2022  Se valorar\u00e1 estar en posesi\u00f3n de un m\u00e1ster o un certificado pertinente (p. ej., CFA o CPA)\n",
+  "responsabilidades": "\u2022\tHacer previsiones de los resultados mensuales, trimestrales y anuales\n\u2022\tGestionar el ciclo presupuestal de la empresa\n\u2022\tGestionar los riesgos\n\u2022\tEvaluar y recomendar inversiones y el financiamiento\n\u2022\tSupervisar a un equipo contable\n\u2022\tAsignar recursos y gestionar los flujos de caja\n\u2022\tRealizar an\u00e1lisis de costes y beneficios\n\u2022\tGarantizar que todas las actividades contables y las auditor\u00edas internas cumplan los reglamentos financieros\n\u2022\tManejo del capital de trabajo\n\u2022\tRecomendar soluciones para reducir los costes\n",
+  "skills": [
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Anal\u00edtico"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Liderazgo"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Negociacion"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "FInanzas"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Tecnolog\u00eda"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Planeaci\u00f3n Estrat\u00e9gica"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado a Resultados"
+   },
+   {
+    "parent": "Gerente de Administraci\u00f3n",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Legal y Normativo"
+   }
+  ]
+ },
+ {
+  "description": null,
+  "designation_name": "Gerente de Control de Calidad",
+  "docstatus": 0,
+  "doctype": "Designation",
+  "modified": "2022-11-15 14:08:59.881130",
+  "name": "Gerente de Control de Calidad",
+  "requisitos": "\u2022\tExperiencia demostrable como gerente de calidad\n\u2022\tDominio de herramientas tecnol\u00f3gicas (paqueter\u00eda inform\u00e1tica)\n\u2022\tIdioma ingl\u00e9s\n\u2022\tConocimiento profundo de los procedimientos y sistemas de control de calidad y las normas jur\u00eddicas pertinentes\n\u2022\tExcelente capacidad matem\u00e1tica y conocimiento profesional de m\u00e9todos estad\u00edsticos y de an\u00e1lisis de datos\n\u2022\tGrado en Administraci\u00f3n de Empresas o campo relacionado\n\u2022\tCertificado de control de calidad (ISO 9000, etc.)\n",
+  "responsabilidades": "\u2022\tComprender las necesidades y los requisitos de los clientes para desarrollar procesos de control de calidad eficaces\n\u2022\tDise\u00f1ar y revisar especificaciones para productos o procesos\n\u2022\tEstablecer requisitos para las materias primas o los productos intermedios para proveedores y supervisar su cumplimiento\n\u2022\tAsegurar el cumplimiento de las directrices de salud y seguridad, as\u00ed como las obligaciones legales\n\u2022\tSupervisar inspectores, t\u00e9cnicos y otros trabajadores, as\u00ed como proporcionarles orientaci\u00f3n y feedback\n\u2022\tSupervisar todos los procedimientos de desarrollo de los productos para identificar el incumplimiento de las normas de calidad\n\u2022\tInspeccionar el producto final y comparar las propiedades con los requisitos\n\u2022\tAprobar los productos adecuados o rechazar los defectuosos\n\u2022\tMantener la veracidad de la documentaci\u00f3n y realizar an\u00e1lisis estad\u00edsticos\n\u2022\tSolicitar feedback a los clientes para evaluar si se cumplen sus requisitos\n\u2022\tEnviar informes detallados al personal de direcci\u00f3n adecuado\n\u2022\tEstar al tanto de oportunidades para la mejora y desarrollar nuevos procedimientos eficientes\n\u2022\tSupervisar todas las operaciones que afecten a la calidad\n",
+  "skills": [
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Organizacion"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Independencia"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Comunicaci\u00f3n"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Responsable"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Anal\u00edtico"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Tecnolog\u00eda"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Idiomas"
+   },
+   {
+    "parent": "Gerente de Control de Calidad",
+    "parentfield": "skills",
+    "parenttype": "Designation",
+    "skill": "Orientado a Resultados"
+   }
+  ]
+ }
+]

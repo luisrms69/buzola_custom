@@ -1,0 +1,86 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Full-time",
+  "modified": "2022-11-09 22:50:50.651772",
+  "name": "Full-time"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Part-time",
+  "modified": "2022-11-09 22:50:50.658590",
+  "name": "Part-time"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Probation",
+  "modified": "2022-11-09 22:50:50.664116",
+  "name": "Probation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Contract",
+  "modified": "2022-11-09 22:50:50.669997",
+  "name": "Contract"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Commission",
+  "modified": "2022-11-09 22:50:50.675357",
+  "name": "Commission"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Piecework",
+  "modified": "2022-11-09 22:50:50.681080",
+  "name": "Piecework"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Intern",
+  "modified": "2022-11-09 22:50:50.687334",
+  "name": "Intern"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Apprendiz",
+  "modified": "2022-11-09 22:50:50.693745",
+  "name": "Apprendiz"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Vacante",
+  "modified": "2022-11-10 12:44:42.504884",
+  "name": "Vacante"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Tiempo Completo",
+  "modified": "2022-11-15 13:39:51.700239",
+  "name": "Tiempo Completo"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Honorarios",
+  "modified": "2022-11-15 13:39:58.392765",
+  "name": "Honorarios"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Employment Type",
+  "employee_type_name": "Comisionistas",
+  "modified": "2022-11-15 13:40:11.327196",
+  "name": "Comisionistas"
+ }
+]

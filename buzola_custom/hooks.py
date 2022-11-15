@@ -193,5 +193,9 @@ app_license = "MIT"
 
 fixtures = [
        "Custom Field",
-	"Skill"
+	"Skill",
+	"Employee",
+	"Employment Type",
+	"Designation",
+	"Employee Grade"
 ]
